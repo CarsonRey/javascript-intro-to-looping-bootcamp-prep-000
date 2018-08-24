@@ -23,8 +23,8 @@ function whileLoop(n) {
   return `done`;
 }
 
-
-
+// whileLoop problem: 
+// put return in wrong bracket
 
 
 function doWhileLoop(array) {
